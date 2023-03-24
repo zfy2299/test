@@ -4,7 +4,7 @@
 // @version      20220805
 // @description  问题反馈位置： https://github.com/TechXueXi/techxuexi-js/issues 。读,看，做。
 // @author       wwd。
-// @match        https://www.xuexi.cn
+// @match        https://www.xuexi.cn/
 // @match        https://www.xuexi.cn/*
 // @match        https://pc.xuexi.cn/points/exam-practice.html
 // @match        https://pc.xuexi.cn/points/exam-weekly-detail.html?id=*
